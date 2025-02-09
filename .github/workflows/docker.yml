@@ -39,4 +39,4 @@ jobs:
           push: true
           tags: |
             frandespliegue/practica7:latest
-            ghcr.io/FranCarbonell/practica7:latest
+            ghcr.io/frandespliegue/practica7:latest
